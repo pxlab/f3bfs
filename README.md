@@ -61,7 +61,7 @@ sudo make install
 You need a RocksDB cluster to run f3bfs.
 
 #### TLS
-You need ca.crt, client.crt and client.key to access TiKV cluster on TLS. 
+You need ca.crt, client.crt and client.key to access cluster on TLS. 
 
 > It will be convenient to get self-signed certificates by [sign-cert.sh](sign-cert.sh)(based on the [easy-rsa](https://github.com/OpenVPN/easy-rsa)).
 
