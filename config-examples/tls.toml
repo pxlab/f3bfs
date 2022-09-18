@@ -1,0 +1,3 @@
+ca-path = "ca.crt"
+cert-path = "client.crt"
+key-path = "client.key"
