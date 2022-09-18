@@ -1,6 +1,6 @@
 # F3BFS
 
-A distributed POSIX filesystem for biomedical bigdata, with partition tolerance and strict consistency.
+A distributed POSIX filesystem for biomedical bigdata, extensible and feature-rich.
 
 ## Environment
 
